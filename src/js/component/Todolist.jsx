@@ -77,6 +77,7 @@ const Todolist = () => {
             <div className="first-page">
                 <input
                     className="input-style ms-3"
+                    maxlength="80"
                     type="text"
                     value={inputValue}
                     onChange={handleInputChange}

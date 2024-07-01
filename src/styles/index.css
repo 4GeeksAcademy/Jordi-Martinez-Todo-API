@@ -70,4 +70,5 @@ ul{
 }
 .x-style:hover{
     opacity: 1;
+    cursor: pointer;
 }
